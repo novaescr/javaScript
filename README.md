@@ -2,7 +2,8 @@
 
 `CURSO: Formação FRONT-END Alura`
 
-`Aplicação:  JavaScript: Programando a Orientação a Objetos`
+`Parte I:  JavaScript: Programando a Orientação a Objetos`
+`Parte II:  JavaScript: Programando a Orientação a Objetos`
 
 
 ## Integrante
