@@ -29,7 +29,7 @@
 
 | Etapa         | Atividades part II |
 |  :----:   | ----------- |
-| ETAPA 1       |Boas práticas na hora de declarar atributos/ Problemas de duplicação de código/ Problemas de código extremamente compartilhado |
+| ETAPA 1       |Boas práticas para declarar atributos/ Problemas de duplicação de código e códigos extremamentes compartilhados |
 | ETAPA 2       |Herança|
 | ETAPA 3       |Classes abstratas/ Métodos abstratos|
 | ETAPA 4       |Polimorfismo/ Métodos estáticos |
